@@ -2,6 +2,9 @@
 # 9-25-25
 # Fizz Buzz Extra Credit Attempt
 
-# This code is an attempt at completing the extra credit.
+# This function counts to 100
+def count_to_100():
+    for i in range(1, 101):
+        print(i)
 
-print("Hello World")
+count_to_100()
